@@ -2,6 +2,7 @@
 hoja de vida
 
 # Rafael fajardo
+[foto]/[https://github.com/Fajardorafael/hojadevida/commit/072bbf30e88863e479dd42d128ba2325c17fd84d]
 
 | **nombre**| Rafael |
 |-----------|--------|
