@@ -2,8 +2,7 @@
 hoja de vida
 
 # Rafael fajardo
-[foto]/[https://github.com/Fajardorafael/hojadevida/commit/072bbf30e88863e479dd42d128ba2325c17fd84d]
-
+!![WIN_20230227_08_24_23_Pro](https://user-images.githubusercontent.com/126476889/221584658-919f4af7-6c3f-48cf-9079-3d46bd10a814.jpg)
 | **nombre**| Rafael |
 |-----------|--------|
 | **T.I**  | 1044615061 |
