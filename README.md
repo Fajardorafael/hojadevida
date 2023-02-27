@@ -1,12 +1,15 @@
 # hojadevida
-hoja de vida 
-**Rafael fajardo**
+hoja de vida
+
+# Rafael fajardo
+
 | **nombre**| Rafael |
 |-----------|--------|
 | **T.I**  | 1044615061 |
 | **celular** | 3008011323 |
+| **correo** | fajardorafael456@gmail.com |
 
-**estudios**
+# estudios
 
 | **colegio** | robinson de la hoz |
 |-------------|--------------------|
