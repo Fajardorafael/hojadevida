@@ -1,2 +1,13 @@
 # hojadevida
 hoja de vida 
+**Rafael fajardo**
+| **nombre**| Rafael |
+|-----------|--------|
+| **T.I**  | 1044615061 |
+| **celular** | 3008011323 |
+
+**estudios**
+
+| **colegio** | robinson de la hoz |
+|-------------|--------------------|
+| **sena** | centro industrial y de aviacion | 
